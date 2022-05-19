@@ -1,4 +1,4 @@
-##Real-ESRGAN Unofficial GUI
+## Real-ESRGAN Unofficial GUI
 
 Setelah install setup silahkan cek dulu environment variable seperti video tutorial
 jika ada pathnya JANGAN LUPA KLIK OK biar path terverifikasi
